@@ -1,2 +1,6 @@
+<script>
+  import { base } from '$app/paths';
+</script>
+
 <h1>Oh hi</h1>
-<a href="/">Go Back.</a>
+<a href="{base}/">Go Back.</a>
